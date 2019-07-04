@@ -313,26 +313,26 @@ namespace DesignMode
             }
         }
         //调用
-        class Program
-        {
-            static void Main(string[] args)
-            {
-                IPizzaIngredientFactory pizzaIngredientFactory = new NYPizzaIngredientFactory();
-                IFactory3 factory = new CheesePizzaFactory3();
-                Pizza3 cheesePizza = factory.CreatePizza(pizzaIngredientFactory);
-                cheesePizza.Prepare();
-                cheesePizza.Cut();
-                cheesePizza.Bake();
-                cheesePizza.Box();
-                //输出：
-                //Preparing Cheese
-                //NYDough
-                //NYSauce
-                //Cutting the Cheese
-                //Baking the Cheese
-                //Boxing the Cheese
-            }
-        }
+        //class Program
+        //{
+        //    static void Main(string[] args)
+        //    {
+        //        IPizzaIngredientFactory pizzaIngredientFactory = new NYPizzaIngredientFactory();
+        //        IFactory3 factory = new CheesePizzaFactory3();
+        //        Pizza3 cheesePizza = factory.CreatePizza(pizzaIngredientFactory);
+        //        cheesePizza.Prepare();
+        //        cheesePizza.Cut();
+        //        cheesePizza.Bake();
+        //        cheesePizza.Box();
+        //        //输出：
+        //        //Preparing Cheese
+        //        //NYDough
+        //        //NYSauce
+        //        //Cutting the Cheese
+        //        //Baking the Cheese
+        //        //Boxing the Cheese
+        //    }
+        //}
         #endregion
     }
 }
