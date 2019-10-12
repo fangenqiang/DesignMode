@@ -9,3 +9,13 @@ C:\Users\Administrator\source\repos\DesignMode\DesignMode\bin\Debug\netcoreapp2.
 C:\Users\Administrator\source\repos\DesignMode\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.dll
 C:\Users\Administrator\source\repos\DesignMode\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.pdb
 C:\Users\Administrator\source\repos\DesignMode\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.csprojAssemblyReference.cache
+E:\Code\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.deps.json
+E:\Code\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.runtimeconfig.json
+E:\Code\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.runtimeconfig.dev.json
+E:\Code\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.dll
+E:\Code\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.pdb
+E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.csprojAssemblyReference.cache
+E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.AssemblyInfoInputs.cache
+E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.AssemblyInfo.cs
+E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.dll
+E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.pdb
