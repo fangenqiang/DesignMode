@@ -19,3 +19,15 @@ E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.AssemblyInfoInputs.cache
 E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.AssemblyInfo.cs
 E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.dll
 E:\Code\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.pdb
+E:\GitHub\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.deps.json
+E:\GitHub\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.runtimeconfig.json
+E:\GitHub\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.runtimeconfig.dev.json
+E:\GitHub\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.dll
+E:\GitHub\DesignMode\bin\Debug\netcoreapp2.2\DesignMode.pdb
+E:\GitHub\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.csprojAssemblyReference.cache
+E:\GitHub\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.AssemblyInfoInputs.cache
+E:\GitHub\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.AssemblyInfo.cs
+E:\GitHub\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.dll
+E:\GitHub\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.pdb
+E:\GitHub\DesignMode\obj\Debug\netcoreapp2.2\DesignMode.genruntimeconfig.cache
